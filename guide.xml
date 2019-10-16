@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SporTV 3">
+    <display-name lang="pt">SporTV 3</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20191016000000 -0300" stop="20191016030000 -0300" channel="SporTV 3">
+    <title lang="pt">UFC Fight Night Combate: Jedrzejczyk x Waterson</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016030000 -0300" stop="20191016040000 -0300" channel="SporTV 3">
+    <title lang="pt">Especial UFC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016040000 -0300" stop="20191016063000 -0300" channel="SporTV 3">
+    <title lang="pt">Bem, Amigos!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016063000 -0300" stop="20191016070000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016070000 -0300" stop="20191016191000 -0300" channel="SporTV 3">
+    <title lang="pt">VT de Eventos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016191000 -0300" stop="20191016211000 -0300" channel="SporTV 3">
+    <title lang="pt">Liga Sul-Americana de Basquete: Leones de Quilpué (CHI) x Pinheiros</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016211000 -0300" stop="20191017070000 -0300" channel="SporTV 3">
+    <title lang="pt">VT de Eventos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016010000 -0300" stop="20191016013000 -0300" channel="SporTV 2">
+    <title lang="pt">Fala Muito!!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016013000 -0300" stop="20191016023000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Londrina x Figueirense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016023000 -0300" stop="20191016033000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Vila Nova</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016033000 -0300" stop="20191016043000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CRB AL x Operário</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016043000 -0300" stop="20191016060000 -0300" channel="SporTV 2">
+    <title lang="pt">Jogos Históricos da NBA: O Jogo da Gripe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016060000 -0300" stop="20191016070000 -0300" channel="SporTV 2">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016070000 -0300" stop="20191016090000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Vôlei Masculino: Itália X Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016090000 -0300" stop="20191016100000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016100000 -0300" stop="20191016110000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Brasil x Nigéria</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016110000 -0300" stop="20191016120000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016120000 -0300" stop="20191016130000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016130000 -0300" stop="20191016140000 -0300" channel="SporTV 2">
+    <title lang="pt">Amistoso Internacional de Futebol Sub-23: Brasil x Japão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016140000 -0300" stop="20191016145000 -0300" channel="SporTV 2">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016145000 -0300" stop="20191016150000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016150000 -0300" stop="20191016170000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Brasileiro de Futebol Sub-20: Cruzeiro x Vasco</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016170000 -0300" stop="20191016180000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016180000 -0300" stop="20191016190000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Brasil x Nigéria</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016190000 -0300" stop="20191016200000 -0300" channel="SporTV 2">
+    <title lang="pt">Amistoso Internacional de Futebol Sub-23: Brasil x Japão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016200000 -0300" stop="20191016220000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Vôlei Masculino: Itália X Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016220000 -0300" stop="20191016230000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Bento x Coritiba</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016230000 -0300" stop="20191017000000 -0300" channel="SporTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSA AL x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016010000 -0300" stop="20191016013000 -0300" channel="SporTV">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016013000 -0300" stop="20191016023000 -0300" channel="SporTV">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016023000 -0300" stop="20191016033000 -0300" channel="SporTV">
+    <title lang="pt">Amistoso Internacional de Futebol: Brasil x Nigéria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016033000 -0300" stop="20191016045000 -0300" channel="SporTV">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016045000 -0300" stop="20191016055000 -0300" channel="SporTV">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016055000 -0300" stop="20191016065000 -0300" channel="SporTV">
+    <title lang="pt">Amistoso Internacional de Futebol Sub-23: Brasil x Japão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016065000 -0300" stop="20191016075000 -0300" channel="SporTV">
+    <title lang="pt">Amistoso Internacional de Futebol: Brasil x Nigéria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016075000 -0300" stop="20191016084500 -0300" channel="SporTV">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016084500 -0300" stop="20191016094500 -0300" channel="SporTV">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016094500 -0300" stop="20191016120000 -0300" channel="SporTV">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016120000 -0300" stop="20191016124500 -0300" channel="SporTV">
+    <title lang="pt">Acabou a Brincadeira</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016124500 -0300" stop="20191016145000 -0300" channel="SporTV">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016145000 -0300" stop="20191016150000 -0300" channel="SporTV">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016150000 -0300" stop="20191016170000 -0300" channel="SporTV">
+    <title lang="pt">Campeonato Brasileiro de Futebol Sub-20: Flamengo x São Paulo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016170000 -0300" stop="20191016180000 -0300" channel="SporTV">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016180000 -0300" stop="20191016191500 -0300" channel="SporTV">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016191500 -0300" stop="20191016211500 -0300" channel="SporTV">
+    <title lang="pt">CSA AL x Atlético MG</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016211500 -0300" stop="20191016213000 -0300" channel="SporTV">
+    <title lang="pt">Pós Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016213000 -0300" stop="20191016220000 -0300" channel="SporTV">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016220000 -0300" stop="20191016231500 -0300" channel="SporTV">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Brasil x Japão</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191016231500 -0300" stop="20191017010000 -0300" channel="SporTV">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
